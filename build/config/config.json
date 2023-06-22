@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcCF4F4afba2e2B6f5d938B637E924Cf0aB407771",
+  "SCAN_LINK": "https://etherscan.io/0xcCF4F4afba2e2B6f5d938B637E924Cf0aB407771",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "QUBETH",
+  "SYMBOL": "QB",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 99900000000000000,
+  "DISPLAY_COST": 0.09990000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/qubeth",
+  "SHOW_BACKGROUND": true
+}
